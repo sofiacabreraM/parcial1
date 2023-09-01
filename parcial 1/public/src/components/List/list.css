@@ -1,0 +1,17 @@
+section{
+background-color: rgb(242, 251, 255);
+border-radius: 10px;
+box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.267);
+width: 500px;
+}
+h1{
+    color: rgb(211, 144, 255);
+}
+
+h2{
+    color: rgb(118, 29, 177);
+}
+
+h3{
+    color: rgb(25, 2, 41); 
+}
